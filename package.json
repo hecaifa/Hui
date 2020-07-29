@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hecaifa/Hui/issues"
   },
-  "homepage": "https://github.com/hecaifa/Hui#readme"
+  "homepage": "https://github.com/hecaifa/Hui#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
